@@ -12,3 +12,23 @@ rapport mondial de la startup moovit sur la mobilité
 
 https://moovitapp.com/insights/fr/Indice_de_Transport_en_Commun_de_Moovit-countries
 
+## groupes RSE
+
+surtout sur C1 (espaces publics et voiries urbaines)
+libéllé | lien
+--|--
+communauté métier | http://mon.cerema.fr/group/1271
+
+
+
+## conférences territoriales
+
+- des ponts à vivre
+- autour de l'évaluation
+- autour du vélo en milieu rural
+- en lien avec la loi LOM : plans de mobilités
+- transports scolaires
+- voies réservées
+- retours sur le passage à 80 km/h
+- préparation des prochaines générations des documents généraux d'organisation (sécurité routière)
+
