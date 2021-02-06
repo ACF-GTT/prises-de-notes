@@ -1,7 +1,6 @@
 # COS domaine C du 04 février 2021
 
 ## Retour d'expérience de la prévision de trafic dans les transports du quotidien en phase de déconfinement
-
 rapport du CGEDD
 
 coronapistes, autosolisme
@@ -35,3 +34,9 @@ accessibilité voirie espace public | http://mon.cerema.fr/group/1286 | privée
 - retours sur le passage à 80 km/h
 - préparation des prochaines générations des documents généraux d'organisation (sécurité routière)
 
+## les offres Cerema
+offre | commentaire
+--|--
+des leviers pour faciliter le déplacement des piétons et des cyclistes pendant le déconfinement
+construire votre politique cyclable
+accompagner votre offre de mobilité servicielle
