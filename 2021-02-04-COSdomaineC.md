@@ -41,3 +41,5 @@ des leviers pour faciliter le déplacement des piétons et des cyclistes pendant
 construire votre politique cyclable
 accompagner votre offre de mobilité servicielle, pour faciliter les déplacements sur votre territoire
 organiser les mobilités en territoires peu denses
+évaluer votre service de transport basé sur les véhicules autonomes
+
