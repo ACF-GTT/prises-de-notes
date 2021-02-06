@@ -39,4 +39,5 @@ offre | commentaire
 --|--
 des leviers pour faciliter le déplacement des piétons et des cyclistes pendant le déconfinement
 construire votre politique cyclable
-accompagner votre offre de mobilité servicielle
+accompagner votre offre de mobilité servicielle, pour faciliter les déplacements sur votre territoire
+organiser les mobilités en territoires peu denses
